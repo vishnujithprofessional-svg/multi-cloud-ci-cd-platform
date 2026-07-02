@@ -108,7 +108,17 @@ Failover & Disaster Recovery
 
 -   Configured Jenkins pipeline.
 -   Executed automated deployment successfully.
--   Screenshots: `screenshots/subtask-4/`
+### Jenkins Pipeline Configuration
+
+![Pipeline Configuration](screenshots/subtask-4/task4.pipeline.configuration1.png)
+
+### Jenkins Pipeline Execution
+
+![Pipeline Execution](screenshots/subtask-4/task4.pipeline.execution.success.1.png)
+
+### Successful Pipeline Build
+
+![Pipeline Success](screenshots/subtask-4/task4.pipeline.execution.success.3.png)
 
 ## Task 5 -- Route 53 Failover & Disaster Recovery
 
