@@ -76,7 +76,17 @@ Failover & Disaster Recovery
 -   Installed and configured Ansible.
 -   Configured inventory and automated Nginx installation.
 -   Validated deployments on AWS and Azure.
--   Screenshots: `screenshots/subtask-2/`
+### Ansible Installation
+
+![Ansible Installation](screenshots/subtask-2/T2.01.Ansible.installed.png)
+
+### Nginx Playbook Execution
+
+![Nginx Playbook](screenshots/subtask-2/T2.05.nginx.playbook.execution.png)
+
+### AWS Nginx Verification
+
+![AWS Nginx](screenshots/subtask-2/T2.06.aws.nginx.status.png)
 
 ## Task 3 -- Application Deployment
 
