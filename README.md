@@ -60,6 +60,9 @@ Failover & Disaster Recovery
 -   Created networking, compute resources, and validated SSH
     connectivity.
 -   Screenshots: `screenshots/subtask-1/`
+### Infrastructure Provisioning
+
+![Terraform Apply](screenshots/subtask-1/TASK1%20TERRAFORM%20APPLY%20OUTPUT.png)
 
 ## Task 2 -- Configuration Management
 
