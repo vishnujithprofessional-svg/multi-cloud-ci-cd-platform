@@ -124,7 +124,21 @@ Failover & Disaster Recovery
 
 -   Configured Route 53 hosted zone and failover records.
 -   Implemented health checks and validated automatic failover.
--   Screenshots: `screenshots/subtask-5/`
+### Route 53 Hosted Zone
+
+![Hosted Zone](screenshots/subtask-5/task5.hosted.zone.creation.png)
+
+### Route 53 Health Check
+
+![Health Check](screenshots/subtask-5/task5.health.check.healthy.png)
+
+### Automatic Failover to Azure
+
+![Azure Failover](screenshots/subtask-5/task5.browser.azure.after.failover.png)
+
+### Primary Service Recovery
+
+![AWS Recovery](screenshots/subtask-5/task5.browser.aws.after.restore.png)
 
 ------------------------------------------------------------------------
 
