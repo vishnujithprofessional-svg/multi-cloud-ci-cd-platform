@@ -59,7 +59,6 @@ Failover & Disaster Recovery
 -   Provisioned AWS and Azure infrastructure using Terraform.
 -   Created networking, compute resources, and validated SSH
     connectivity.
--   Screenshots: `screenshots/subtask-1/`
 ### Terraform Plan
 
 ![Terraform Plan](screenshots/subtask-1/TASK1%20TERRAFORM%20PLAN.png)
