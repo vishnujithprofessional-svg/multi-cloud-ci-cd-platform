@@ -92,7 +92,17 @@ Failover & Disaster Recovery
 
 -   Deployed web application using Ansible.
 -   Configured Nginx and verified browser access.
--   Screenshots: `screenshots/subtask-3/`
+### Ansible Deployment Logs
+
+![Deployment Logs](screenshots/subtask-3/task3.ansible.deployment.logs.png)
+
+### AWS Application Output
+
+![AWS Browser Output](screenshots/subtask-3/task3.aws.browser.output.png)
+
+### Azure Application Output
+
+![Azure Browser Output](screenshots/subtask-3/task3.azure.browser.output.png)
 
 ## Task 4 -- Jenkins CI/CD Pipeline
 
